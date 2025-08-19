@@ -18,7 +18,7 @@ const Header = () => {
             data-nimg={1}
             className="mui-ducv57"
             style={{ color: "transparent", maxWidth: 78 }}
-            src="https://website-media.deel.com/logo_revamp_164ddaed0c.svg"
+            src="./headerlogo.png"
           />
         </div>
       </a>
